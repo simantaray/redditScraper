@@ -1,5 +1,11 @@
 # web_scraper
 
-1. run npm start 
-2. open index.html
-3. wait
+Some basic Git commands are:
+```bash
+$ git clone https://github.com/simantaray/redditScraper.git
+$ cd (into project file)
+$ npm install 
+$ npm start
+```
+
+
