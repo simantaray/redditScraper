@@ -2,9 +2,9 @@
   "name": "web_scraper",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "backend.js",
   "scripts": {
-    "start": "nodemon backend.js"
+    "start": "node backend.js"
   },
   "author": "",
   "license": "ISC",
