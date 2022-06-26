@@ -1,0 +1,16 @@
+[
+  {
+    "name": "over18",
+    "value": "1",
+    "domain": ".reddit.com",
+    "path": "/",
+    "expires": 1718968990,
+    "size": 7,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]
